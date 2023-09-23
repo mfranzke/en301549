@@ -1,0 +1,6 @@
+# Todo
+
+- Turn TOC into links
+- Accessibility testing as github action
+- Validator as github action
+- Spell check 

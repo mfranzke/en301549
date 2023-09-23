@@ -12,3 +12,32 @@ img {
   display: flex;
   justify-content: right;
 }
+
+header ol {
+  list-style: none;
+  margin: 0;
+  margin-left: 4rem;
+  padding: 0;
+}
+
+header ol li bdi {
+  float: left;
+  width: 4rem;
+  margin-left: -4rem;
+}
+
+header ol ol {
+  margin-left: 0;
+}
+
+header ol li li  {
+  margin-left: 1rem;
+}
+
+header ol li li bdi {
+  margin-left: -5rem;
+}
+
+header ol li li li bdi {
+  margin-left: -6rem;
+}
