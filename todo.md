@@ -4,3 +4,4 @@
 - Accessibility testing as github action
 - Validator as github action
 - Spell check 
+- Styling: TOC-annex
