@@ -8,6 +8,10 @@ img {
   height: auto;
 }
 
+table { 
+  border: .125em solid black;
+}
+
 .head-logos {
   display: flex;
   justify-content: right;
@@ -40,4 +44,10 @@ header ol li li bdi {
 
 header ol li li li bdi {
   margin-left: -6rem;
+}
+
+ul.unstyled {
+  all: unset;
+  list-style: none;  
+  margin-left: 0;
 }

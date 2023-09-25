@@ -5,3 +5,5 @@
 - Validator as github action
 - Spell check 
 - Styling: TOC-annex
+- Manually check/set up `<head>`
+- Implement footnote-links
