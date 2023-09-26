@@ -1,6 +1,14 @@
 body {
   margin:0 auto;
-  max-width: 60rem;
+  font-size: 1.875rem;
+  line-height: 1.7;
+  max-width: 58rem;
+}
+
+h2 {
+  width: 100%;
+  border-top: .125rem solid black;
+  padding-top: .5rem;
 }
 
 img {
@@ -20,14 +28,14 @@ table {
 header ol {
   list-style: none;
   margin: 0;
-  margin-left: 4rem;
+  margin-left: 6rem;
   padding: 0;
 }
 
 header ol li bdi {
   float: left;
-  width: 4rem;
-  margin-left: -4rem;
+  width: 6rem;
+  margin-left: -6rem;
 }
 
 header ol ol {
@@ -35,15 +43,19 @@ header ol ol {
 }
 
 header ol li li  {
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 header ol li li bdi {
-  margin-left: -5rem;
+  margin-left: -8rem;
 }
 
 header ol li li li bdi {
-  margin-left: -6rem;
+  margin-left: -10rem;
+}
+
+main > aside {
+  margin-left: 4rem;
 }
 
 ul.unstyled {

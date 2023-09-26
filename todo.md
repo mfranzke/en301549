@@ -1,9 +1,9 @@
 # Todo
 
-- Turn TOC into links
-- Accessibility testing as github action
-- Validator as github action
-- Spell check 
+- HTML: Turn TOC into links
+- Meta: Accessibility testing as github action
+- Meta: HTML Validator as github action
+- Content: Spell check 
 - Styling: TOC-annex
-- Manually check/set up `<head>`
-- Implement footnote-links
+- HTML: Implement footnote-links
+- Content: Optimise images
